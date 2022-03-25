@@ -8,7 +8,7 @@ ___
 <li> add your infromation in user information section</li>
 <li> download chromedriver matches with your environment</li>
 <li> run!</li>
-<p>(if you want another bag edit css collection part)</p>
+<p>(if you want another bag, edit css collection part)</p>
 </ol>
 
 <h4>reference</h4>
