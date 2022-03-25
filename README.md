@@ -4,11 +4,15 @@ ___
 ### Default setting works with Dexter.
 
 <h3>To Use</h3>
-1. add your infromation in user information section<br>
-2. download chromedriver matches with your environment<br>
-3. run!<br>
- (if you want another bag edit css collection part)
+<ol>
+<li> add your infromation in user information section</li>
+<li> download chromedriver matches with your environment</li>
+<li> run!</li>
+<p>(if you want another bag edit css collection part)</p>
+</ol>
 
 <h4>reference</h4>
-* https://judy-son.tistory.com/17 <br>
-* https://yeolco.tistory.com/93
+<ul>
+    <li> https://judy-son.tistory.com/17</li>
+    <li> https://yeolco.tistory.com/93</li>
+<ul>
